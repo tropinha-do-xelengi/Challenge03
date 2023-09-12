@@ -15,7 +15,7 @@ import App from './App.jsx'
         children: [
           { path: '/', element: <Home/> },
           { path: '/home', element: <Vistoria/> }
-        ]}   ])
+        ]}   ]); 
 
 
   //Termino rotas
